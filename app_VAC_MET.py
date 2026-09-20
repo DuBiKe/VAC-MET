@@ -4,8 +4,8 @@
 # e rapporto VCO2/DO2 (asse y), con effetti ipotetici di fluidi,
 # noradrenalina e dobutamina.
 #
-# Avvio:  pip install streamlit plotly
-#         streamlit run app_VAC_MET.py
+pip install streamlit plotly
+streamlit run app_VAC_MET.py
 #
 # ATTENZIONE: modello dimostrativo con coefficienti IPOTETICI.
 # Non rappresenta dati sperimentali. Non per uso clinico.
